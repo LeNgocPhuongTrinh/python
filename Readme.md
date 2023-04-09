@@ -8,11 +8,7 @@ Le Ngoc Phuong Trinh
 Some small works I applied Python
 ## Overview
 
-Library mainly used up to now:
-- Pandas
-- Numpy
-
-Some works: Material Requirement Planning (MRP), On Time In Full
+- Some works: Material Requirement Planning (MRP), On Time In Full
 
  ### Contact Information
  For more information, reach me at:
