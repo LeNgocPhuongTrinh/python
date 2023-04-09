@@ -16,14 +16,14 @@ ratings and reviews for the Indian market. The data has been collected from e-co
 ## Key output
 
 - User preferences:
-+ Most of fitness trackers in Indian market are equipped with Touchscreen and Bluetooth
-+ Preferred product features: 22-day battery life, Rectangle dial shape, 1.7-inch display size, Silicon Black strap, medium weight (35-50g)
+  + Most of fitness trackers in Indian market are equipped with Touchscreen and Bluetooth
+  + Preferred product features: 22-day battery life, Rectangle dial shape, 1.7-inch display size, Silicon Black strap, medium weight (35-50g)
 - Price Segmentation and Brand
-+ <b>Apple</b> focuses on premium-quality product segment with the highest rating and value contribution <i>despite low consumption</i>.
-+ <b>Noise</b> is mostly preferred in the Indian market due to its <i>inexpensive price (under 18,000)</i>.
+  + <b>Apple</b> focuses on premium-quality product segment with the highest rating and value contribution <i>despite low consumption</i>.
+  + <b>Noise</b> is mostly preferred in the Indian market due to its <i>inexpensive price (under 18,000)</i>.
 - Factor Correlations:
-+ In terms of price difference, some features are found to be more important than others. The impact is more obvious if we examine price variation by each product features BY BRAND.
-+ The drawback is that, data is not fulfilled with Product feature and Price. Only 31% data is valid to analyze the correlation.
+  + In terms of price difference, some features are found to be more important than others. The impact is more obvious if we examine price variation by each product features BY BRAND.
+  + The drawback is that, data is not fulfilled with Product feature and Price. Only 31% data is valid to analyze the correlation.
 
 ## Data Cleansing
 
