@@ -31,6 +31,7 @@ ratings and reviews for the Indian market. The data has been collected from e-co
 - Define Price Bins: Jenks Natural Breaks
 - Feature Engineering (encode Categorical Variables): LeaveOneOut
 - Feature Selection: RobustScaler, RandomForest, XGB
+
 Some data is missing. To examine the price variation by product features, it is required to have non-missing data but only 31% data is valid to proceed.
 
 
